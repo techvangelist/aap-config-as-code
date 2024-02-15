@@ -7,5 +7,5 @@ controller_projects:
    scm_delete_on_update: 'no'
    scm_type: git
    scm_update_on_launch: 'no'
-   scm_url: https://github.com/ffirg/aap-cac.git
+   scm_url: https://github.com/techvangelist/aap-config-as-code.git
 ...
