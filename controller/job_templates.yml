@@ -7,7 +7,7 @@ controller_templates:
    inventory: Home Lab Inventory
  - name: Hello World Demo
    project: Demo Project
-   playbook: hello_world.yml
+   playbook: main.yml
    execution_environment: Minimal execution environment
    instance_groups:
      - controlplane
