@@ -4,12 +4,12 @@ controller_templates:
    execution_environment: Default execution environment
    instance_groups:
      - default
-   inventory: Job Inventory
- - name: Demo Job Template2
+   inventory: Home Lab Inventory
+ - name: Hello World Demo
    project: Demo Project
    playbook: hello_world.yml
    execution_environment: Minimal execution environment
    instance_groups:
      - controlplane
-   inventory: Job Inventory
+   inventory: Home Lab Inventory
 ...
