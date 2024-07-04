@@ -1,6 +1,6 @@
 ---
 controller_inventories:
- - name: Lab Inventory2
+ - name: Home Lab Inventory
    organization: Default
-   description: clone of Demo Inventory for CaC example
+   description: Home Lab hosts
 ...
