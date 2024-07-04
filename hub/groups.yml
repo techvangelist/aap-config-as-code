@@ -1,5 +1,5 @@
 ---
 ah_groups:
-  - name: group1
+  - name: devops
     state: present
 ...
